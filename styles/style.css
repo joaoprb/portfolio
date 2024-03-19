@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Gabarito&family=Krona+One&family=Roboto:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Anta&family=PT+Sans:ital,wght@0,400;0,700;1,400;1,700&display=swap');
 
 * {
     margin: 0;
@@ -6,13 +6,13 @@
 }
 
 :root {
-    --cor-primaria: #04364A;
-    --cor-secundaria: #176B87;
-    --cor-terciaria: #64CCC5;
+    --cor-primaria: #000000;
+    --cor-secundaria: #2284a5;
+    --cor-terciaria: #09b1ff;
     --cor-hover: #DAFFFB;
 
-    --fonte-principal: 'Krona One', sans-serif;
-    --fonte-secundaria: 'Montserrat', sans-serif;
+    --fonte-principal: 'Anta', sans-serif;
+    --fonte-secundaria: 'PT Sans', sans-serif;
 }
 
 body {
